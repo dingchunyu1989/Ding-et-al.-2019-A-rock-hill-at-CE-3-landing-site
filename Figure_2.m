@@ -1,3 +1,10 @@
+
+% Estimation of the relative permittivity of materials in the high-relief area based on topography and radargram.
+% Reference: Ding, C. Y et al (2019). A rocky hill on the continuous ejecta of Ziwei revealed by the Chang¡¯e-3 mission.
+% Published in Earth and Planetary Physics.
+% by Dr.Chunyu Ding (E-mail:baci.dingchunyu@gmail.com)
+% July 2019
+
 clc
 close all
 clear all
